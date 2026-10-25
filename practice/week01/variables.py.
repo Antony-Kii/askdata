@@ -1,0 +1,20 @@
+# Week 1: Learning Python Variables
+# print a message
+print("Hello, World!")
+
+# Create variables
+name = "Antony"
+age = 10
+career_goal = "AI Engineer"
+hours_per_week = 15
+
+# Display information
+print("My name is", name)
+print("I am", age, "years old.")
+print("My career goal is ", career_goal)
+print("I plan to study", hours_per_week, "hours per week.")
+
+# perform calculation
+hours_per_year = hours_per_week * 52
+
+print("my estimated annual study hours:", hours_per_year)
