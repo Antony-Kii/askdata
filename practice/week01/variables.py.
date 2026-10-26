@@ -4,7 +4,7 @@ print("Hello, World!")
 
 # Create variables
 name = "Antony"
-age = 10
+age = 99
 career_goal = "AI Engineer"
 hours_per_week = 15
 
