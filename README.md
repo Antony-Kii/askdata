@@ -30,3 +30,26 @@ I downloaded and explored the Chinook SQLite sample database using DB Browser fo
 - Understand relational databases
 - Practice SQL queries
 - Develop AI engineering skills
+
+## Week 3 — Python Collections and Data Analysis
+
+Completed Python exercises covering lists, dictionaries, sets, and comprehensions.
+
+### CSV Record Analyzer
+Built `csv_analyzer.py` to read and analyze a synthetic music sales dataset. Features include record counting, sales totals, unique genre identification, and frequency analysis.
+
+### AskData SQL Results Analyzer
+Built `askdata_analysis.py` to analyze results from the Chinook SQLite database.
+
+Features:
+- Read-only SQL query execution
+- Conversion of SQL rows into Python dictionaries
+- Row and column summaries
+- Observed data type identification
+- Unique-value counts and frequency analysis
+- Basic query validation and SQL error handling
+- Analysis of up to 100 retrieved rows per query
+
+**Database source:** https://github.com/lerocha/chinook-database
+
+**Setup:** Download the Chinook SQLite database and update the `database_path` variable in `askdata_analysis.py` to match its location on your computer.
